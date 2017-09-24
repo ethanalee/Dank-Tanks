@@ -1,2 +1,2 @@
 # Dank-Tanks
-Experimentation with pigame
+2D Game built using the pygame module for python
